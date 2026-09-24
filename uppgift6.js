@@ -2,9 +2,9 @@
 "use strict";
 
 function calculateArea(height, width){
-    let sum;
-    sum = height * width;
-    return sum; 
+    let area;
+    area = height * width;
+    return area; 
 }
 
 console.log("Arean är: " + calculateArea(10, 5));
