@@ -6,3 +6,6 @@ const lastname = "Chen";
 let age = 20;
 let student = true;
 
+console.log(`Namn: ${firstname} ${lastname}`);
+console.log(`Ålder: ${age}`);
+console.log(`Student: ${student}`);
