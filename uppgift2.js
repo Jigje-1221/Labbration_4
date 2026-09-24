@@ -6,7 +6,7 @@ let number = 5;
 let total = pris * number;
 let totalIncludingVAT = total * 1.25;
 
-console.log(`Pris: ${pris}`)
-console.log(`Antal: ${number}`)
-console.log(`Total: ${total}`)
-console.log(`Totalt inklusive moms: ${totalIncludingVAT}`)
+console.log(`Pris: ${pris}`);
+console.log(`Antal: ${number}`);
+console.log(`Total: ${total}`);
+console.log(`Totalt inklusive moms: ${totalIncludingVAT}`);
